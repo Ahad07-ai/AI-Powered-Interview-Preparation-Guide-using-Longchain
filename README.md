@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **AI-Powered Interview Preparation Guide** is an innovative LLM application designed to assist users in preparing for interviews with the help of AI. The tool leverages advanced LLM models such as OpenAI ChatModels, Anthropic's Claude ChatModels, Google's Gemini ChatModels, etc. to generate relevant interview questions, evaluate user responses, and offer constructive feedback. By combining interactive features with AI-powered evaluations, this project aims to enhance interview preparation in a highly efficient and engaging manner and help students crack their interviews.
+The **AI-Powered Interview Preparation Guide** is an innovative LLM application designed to assist users in preparing for interviews with the help of AI. The tool leverages advanced LLM models such as OpenAI ChatModels, Anthropic's Claude ChatModels, Google's Gemini ChatModels, etc. to generate relevant interview questions, evaluate user responses, and offer constructive feedback. By combining interactive features with AI-powered evaluations, this project aims to enhance interview preparation in a highly efficient and engaging manner and help students crack their interviews with confidence.
 
 ![Interview Preparation](https://snacknation.com/wp-content/uploads/2023/02/Interview-prep.png)
 ![AI Interviewer](https://miro.medium.com/v2/resize:fit:1200/1*fftnkC_jWvvYeQpb_yXgWg.png)
